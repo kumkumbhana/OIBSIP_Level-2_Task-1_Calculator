@@ -1,0 +1,41 @@
+body{
+    color:black;
+}
+#clear{
+    width:270px;
+}
+
+.form-style{
+    width: 500px;
+    height:500px;
+    margin: auto;
+    margin-top: 5%;
+    text-align: center;
+    background-color:whitesmoke;
+    box-shadow:5px 5px 5px 5px rgba(135, 133, 245, 0.471); ;
+}
+input{
+    background-color: #f1f1f1;
+    width: 90px;
+    background-color:white;
+    color: black;
+    padding: 5px;
+    margin: 1px;
+    border-radius:5px;
+    border-color: cornsilk;
+    box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 0.2);
+}
+input:hover{
+    background-color: #ddd;
+  -webkit-box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 0.2);
+  box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 0.2);
+  border-color: #aaa;
+}
+#answer-style{
+    width: 180px;
+    
+}
+#form-input{
+    padding: 40px;
+ 
+}
